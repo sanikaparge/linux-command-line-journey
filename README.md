@@ -2322,35 +2322,6 @@ After completing this journey, I should be able to:
 
 ---
 
-# 48. 🏆 Final DevOps Linux Checklist
-
-```text
-Linux Fundamentals             ✅
-Linux File System               ✅
-Basic Commands                  ✅
-File Management                 ✅
-Text Processing                 ✅
-Permissions                     ✅
-Users & Groups                  ✅
-Process Management              ✅
-Service Management              ✅
-Package Management              ✅
-Networking                      ✅
-Storage                         ✅
-SSH                             ✅
-SCP                             ✅
-Environment Variables           ✅
-Bash Scripting                  ✅
-Cron Jobs                       ✅
-Log Management                  ✅
-Troubleshooting                 ✅
-AWS EC2 Linux                   ✅
-Git + Linux                     ✅
-DevOps Automation               ✅
-```
-
----
-
 # 📌 Environment Used
 
 This learning journey is practiced using:
