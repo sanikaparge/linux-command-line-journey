@@ -2293,35 +2293,6 @@ uptime
 lscpu
 ```
 
----
-
-# 47. 🎯 Learning Goals
-
-After completing this journey, I should be able to:
-
-* [ ] Understand Linux architecture
-* [ ] Navigate the Linux file system
-* [ ] Create and manage files/directories
-* [ ] Search files and text
-* [ ] Work with Linux permissions
-* [ ] Manage users and groups
-* [ ] Manage processes
-* [ ] Manage system services
-* [ ] Install and manage packages
-* [ ] Troubleshoot networking
-* [ ] Monitor disk and memory
-* [ ] Work with Linux logs
-* [ ] Connect to servers using SSH
-* [ ] Transfer files using SCP
-* [ ] Configure environment variables
-* [ ] Write Bash scripts
-* [ ] Schedule tasks with cron
-* [ ] Deploy applications on Linux
-* [ ] Use Linux in AWS environments
-* [ ] Apply Linux skills to DevOps workflows
-
----
-
 # 📌 Environment Used
 
 This learning journey is practiced using:
